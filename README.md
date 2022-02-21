@@ -6,7 +6,10 @@
 
 - Tech Stack
   <div>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  </div>
+  <div>
     <img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
     <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
     <img width='48px' height='48px' src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
