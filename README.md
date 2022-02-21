@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### In a Love-Hate Relationship with Javascript.
 
 #### Terminal Lover, Web Application Developer.
