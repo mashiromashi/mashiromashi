@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: htinwana.dev@gmail.com
 
 ![Mashiromashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashiromashi&count_private=true&show_icons=true&theme=radical)
+![Mashiromashi's Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashiromashi&count_private=true&show_icons=true&theme=radical&layout=compact)
