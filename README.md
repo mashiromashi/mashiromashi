@@ -17,8 +17,8 @@
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwindcss&logoColor=blue)
 
 <a href="https://github.com/mashiromashi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mashiromashi&theme=synthwave&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashiromashi&theme=synthwave&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mashiromashi&theme=gruvbox&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashiromashi&theme=gruvbox&layout=compact" />
 </a>
 
 <!--
