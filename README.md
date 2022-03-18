@@ -1,4 +1,4 @@
-### In a Love-Hate Relationship with Javascript.
+### In a love-hate relationship with Javascript.
 
 #### Terminal Lover, Web Application Developer.
 
