@@ -23,11 +23,6 @@
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   </div>
 
-<a href="https://github.com/mashiromashi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mashiromashi&theme=gruvbox&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashiromashi&theme=gruvbox&layout=compact" />
-</a>
-
 <!--
 **mashiromashi/mashiromashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
